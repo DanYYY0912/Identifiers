@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ListNode
+comment0.text=\r\n\ Class\ \:\ L\ i\ s\ t\ N\ o\ d\ e\r\n\ \r\n\ @Name\ \:\ YUEN\ Yiu\ Yeung\r\n\ @StdID\:\ 200171873\r\n\ @Class\:\ IT114105/1C\r\n\ @2021-03-24\r\n
+comment1.params=data
+comment1.target=ListNode(java.lang.Object)
+comment2.params=data\ next
+comment2.target=ListNode(java.lang.Object,\ ListNode)
+numComments=3

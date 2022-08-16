@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=StringComparator
+comment0.text=\r\n\ Interface\ \:\ S\ t\ r\ i\ n\ g\ C\ o\ m\ p\ a\ r\ a\ t\ o\ r\r\n\ \r\n\ @Name\ \:\ YUEN\ Yiu\ Yeung\r\n\ @StdID\:\ 200171873\r\n\ @Class\:\ IT114105/1C\r\n\ @2021-03-24\r\n
+comment1.params=item1\ item2
+comment1.target=boolean\ isEqualTo(java.lang.Object,\ java.lang.Object)
+comment2.params=item1\ item2
+comment2.target=boolean\ isLessThan(java.lang.Object,\ java.lang.Object)
+comment3.params=item1\ item2
+comment3.target=boolean\ isLessThanOrEqualTo(java.lang.Object,\ java.lang.Object)
+comment4.params=item1\ item2
+comment4.target=boolean\ isGreaterThan(java.lang.Object,\ java.lang.Object)
+comment5.params=item1\ item2
+comment5.target=boolean\ isGreaterThanOrEqualTo(java.lang.Object,\ java.lang.Object)
+numComments=6

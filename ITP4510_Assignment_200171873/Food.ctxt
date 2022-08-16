@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Food
+comment0.text=\r\n\ Abstract\ Class\ Food\ -\ Object-oriented\ Programming(abstract\ class\ and\ methods)\r\n\r\n\ @YUEN\ Yiu\ Yeung\ \r\n\ @2021-01-31\ \r\n
+comment1.params=
+comment1.target=Food()
+comment2.params=name\ price
+comment2.target=Food(java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=price
+comment4.target=void\ setPrice(int)
+numComments=5

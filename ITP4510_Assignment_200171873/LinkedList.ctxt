@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=LinkedList
+comment0.text=\r\n\ Class\ \:\ L\ i\ n\ k\ e\ d\ L\ i\ s\ t\r\n\ \r\n\ @Name\ \:\ YUEN\ Yiu\ Yeung\r\n\ @StdID\:\ 200171873\r\n\ @Class\:\ IT114105/1C\r\n\ @2021-03-24\r\n
+comment1.params=
+comment1.target=LinkedList()
+comment10.params=item
+comment10.target=void\ removeItem(java.lang.Object)
+comment11.params=item
+comment11.target=ListNode\ search(java.lang.String)
+comment2.params=comparator
+comment2.target=LinkedList(Comparator)
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=item
+comment4.target=void\ addToHead(java.lang.Object)
+comment5.params=item
+comment5.target=void\ addToTail(java.lang.Object)
+comment6.params=
+comment6.target=java.lang.Object\ removeFromHead()
+comment7.params=
+comment7.target=java.lang.Object\ removeFromTail()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=item\ lineNum
+comment9.target=void\ insertInOrder(java.lang.Object,\ int)
+numComments=12

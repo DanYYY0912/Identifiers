@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Drink
+comment0.text=\r\n\ Class\ Drink\ -\ Object-oriented\ Programming(abstract\ class\ and\ methods)\r\n\r\n\ @YUEN\ Yiu\ Yeung\ \r\n\ @2021-01-31\ \r\n
+comment1.params=name\ price\ volume
+comment1.target=Drink(java.lang.String,\ int,\ int)
+comment2.params=price
+comment2.target=void\ setPrice(int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

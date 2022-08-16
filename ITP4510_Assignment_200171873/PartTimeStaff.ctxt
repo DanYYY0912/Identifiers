@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PartTimeStaff
+comment0.text=\r\n\ Class\ TestStaff\ -\ Object-oriented\ Programming(Interface)\r\n\r\n\ @YUEN\ Yiu\ Yeung\ \r\n\ @2021-01-31\r\n
+comment1.params=name\ id\ grade\ workingHour
+comment1.target=PartTimeStaff(java.lang.String,\ int,\ char,\ int)
+comment2.params=
+comment2.target=void\ display()
+comment3.params=
+comment3.target=int\ computeSalary()
+numComments=4
